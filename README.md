@@ -1,5 +1,6 @@
 # 💫 About Me:
-With over 10 years of experience in software engineering, I have gained a strong foundation in various programming languages and technologies. My extensive experience in software development using Java includes 8 years of practical application. I am proficient in Microservices architecture and have experience integrating message systems like RabbitMQ into software projects. In addition, I am skilled in Javascript and Node.js, and possess the ability to develop and maintain server-side applications. Also my experience in front-end development using React includes creating and maintaining user interfaces. Overall, my skills and experience make me a well-rounded software engineer capable of tackling a wide range of projects and challenges.
+With over 10 years of experience in software engineering, I have gained a strong foundation in various programming languages and technologies. My extensive experience in software development using Java includes 8 years of practical application. 
+I am proficient in Microservices architecture and have experience integrating message systems like RabbitMQ into software projects. In addition, I am skilled in Javascript and Node.js, and possess the ability to develop and maintain server-side applications. Also my experience in front-end development using React includes creating and maintaining user interfaces. Overall, my skills and experience make me a well-rounded software engineer capable of tackling a wide range of projects and challenges.
 
 
 ## 🌐 Socials:
