@@ -1,8 +1,24 @@
-# 💫 About Me:
-Hey there! 👋 As a software engineer since 2013, I've delved into a wide range of programming languages, from Java and Node.js to Golang. But what truly sparked my career was my introduction to blockchain in 2017! Web3 projects quickly became my ultimate passion, and I got totally hyped up about how they empower individuals with ownership of their own keys. On this journey, I thrive on crafting user-centric web3 solutions that emphasize decentralization, transparency, and security. Let's collaborate and make the decentralized world even more exciting! 🚀
+# About
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erionbarasuol) 
+Software Engineer and Blockchain Architect with 10+ years of experience building production systems and working with blockchain since 2017.
 
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=flat-square&logo=solidity&logoColor=black)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+My work spans Solidity/EVM smart contracts, Web3 integrations, Go, Node.js/TypeScript, distributed systems, and cloud infrastructure. I've worked on blockchain architecture for financial systems, tokenization, settlement flows, and permissioned networks, including Hyperledger Fabric.
+
+I work across the stack, from smart contract and protocol design to backend architecture and production infrastructure on AWS and Kubernetes.
+
+I'm particularly interested in blockchain systems where decentralization, security, and transparency solve real business and infrastructure problems.
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erionbarasuol)
+
+## Tech Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=flat-square&logo=solidity&logoColor=black)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
